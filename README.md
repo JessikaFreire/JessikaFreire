@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jessika, I'm 24 years old and I live in Brazil. Currently I work as a Software Tester, but I am studying to work as a developer.
+I'm Jessika, I'm 24 years old and I live in Brazil. Currently I work as a Software Tester, but I am studying to work as a Data Analyst.
 
 
 ## Education
