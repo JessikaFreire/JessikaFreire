@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I'm Jessika, I'm 24 years old and I live in Brazil. Currently I work as a Software Tester, but I am studying to work as a Data Analyst.
+I'm Jessika, I'm 24 years old and I live in Brazil. 
+Currently I work as a Software Tester, but I am studying to work as a Data Analyst.
 
 
 ## Education
 - SENAC: Graduate Degree in Software Quality Engineering
 - UNASP: Bachelor in Information Systems
 - SENAI: Technical Course in Mechatronics
+
+- ## Certificates
+- 🔗 [Microsoft Power BI Para Business Intelligence e Data Science | Data Science Academy](https://mycourse.app/nYpVFbB2JpJSVMpj9)
 
 ## Bootcamps (IGTI)
 - [Front End Developer](https://drive.google.com/file/d/1Ru3n-YScBTsL3mma9qiV3TRZU5NFgVlV/view?usp=share_link)
