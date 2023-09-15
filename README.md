@@ -9,7 +9,7 @@ Currently I work as a Software Tester, but I am studying to work as a Data Analy
 - UNASP: Bachelor in Information Systems
 - SENAI: Technical Course in Mechatronics
 
-- ## Certificates
+## Certificates
 - 🔗 [Microsoft Power BI Para Business Intelligence e Data Science | Data Science Academy](https://mycourse.app/nYpVFbB2JpJSVMpj9)
 
 ## Bootcamps (IGTI)
