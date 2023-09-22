@@ -3,18 +3,18 @@
 I'm Jessika, I'm 24 years old and I live in Brazil. 
 Currently I work as a Software Tester, but I am studying to work as a Data Analyst.
 
+[LinkedIn](https://www.linkedin.com/in/jessikafreire/)
+
 
 ## Education
-- SENAC: Graduate Degree in Software Quality Engineering
-- UNASP: Bachelor in Information Systems
-- SENAI: Technical Course in Mechatronics
+- SENAC: Graduate Degree in Software Quality Engineering (2021)
+- UNASP: Bachelor in Information Systems (2017-2020)
 
 ## Certificates
 - 🔗 [Microsoft Power BI Para Business Intelligence e Data Science | Data Science Academy](https://mycourse.app/nYpVFbB2JpJSVMpj9)
 
-## Bootcamps (IGTI)
-- [Front End Developer](https://drive.google.com/file/d/1Ru3n-YScBTsL3mma9qiV3TRZU5NFgVlV/view?usp=share_link)
-- [Node.js Developer](https://drive.google.com/file/d/1ynTiUUZl9ObRZ8TvfxNtQIA0zYZBpWEU/view?usp=share_link)
-- [React.js Developer](https://drive.google.com/file/d/17YRdfs6bhDxLLd5cZKYpfgdqaWTzvwHw/view?usp=share_link)
-- [International Immersion On-line Program - Disruptives Technologies Silicon Valley](https://drive.google.com/file/d/1QZ3yDp6NtxdySH6lDVTeYrtF5oSJVMCY/view?usp=share_link)
-
+## Projects
+- Power BI
+  - 🔗 [Intensivão de Power BI | Hashtag Treinamentos](https://github.com/JessikaFreire/Intensivao-de-Power-BI-2023)
+  - 🔗 [Microsoft Power BI Para Business Intelligence e Data Science | Data Science Academy](https://github.com/JessikaFreire/Data-Science-Academy-Power-BI)
+  - 🔗 [Comic Characters](https://github.com/JessikaFreire/Comic-Characters)
