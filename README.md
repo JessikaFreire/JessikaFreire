@@ -16,7 +16,9 @@ I'm focusing my studies on:
 - UNASP: Bachelor in Information Systems (2017-2020)
 
 ## Certificates
-- 🔗 [Microsoft Power BI Para Business Intelligence e Data Science | Data Science Academy](https://mycourse.app/nYpVFbB2JpJSVMpj9)
+- 🔗 [Google Data Analytics Professional Certificate | Coursera](https://www.credly.com/badges/96e0de1a-942a-4a9b-9944-251d51ccf896/linked_in_profile)
+- 🔗 [Microsoft Power BI for Business Intelligence and Data Science | Data Science Academy](https://mycourse.app/nYpVFbB2JpJSVMpj9)
+
 
 ## Projects
 - Power BI
