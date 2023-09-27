@@ -3,9 +3,10 @@
 I'm Jessika, I'm 24 years old and I live in Brazil. 
 I currently work as a Software Tester, but I am studying to work in the Data area.
 I'm focusing my studies on:
+- Excel
 - Power BI
 - Python
-- Excel
+- SQL
 
 [LinkedIn](https://www.linkedin.com/in/jessikafreire/)
 
