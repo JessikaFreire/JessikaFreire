@@ -20,6 +20,13 @@ I'm focusing my studies on:
 - 🔗 [Microsoft Power BI Para Business Intelligence e Data Science | Data Science Academy](https://mycourse.app/nYpVFbB2JpJSVMpj9)
 
 
+- Cognitive Class
+  - [Data Science 101 | IBM](https://courses.cognitiveclass.ai/certificates/1f656775022548c687009840fe286e5a)
+  - [Data Science Methodology | IBM](https://courses.cognitiveclass.ai/certificates/4dc2e0d4a7a448b1acde314a04f9497b)
+  - [Data Science Tools | IBM](https://courses.cognitiveclass.ai/certificates/12afed30deb24b7eae2469a1026449bd)
+  - [Python for Data Science | IBM](https://courses.cognitiveclass.ai/certificates/9990ab7d3d0f452f95789ad77a9c192d)
+
+
 ## Projects
 - Power BI
   - 🔗 [Intensivão de Power BI | Hashtag Treinamentos](https://github.com/JessikaFreire/Intensivao-de-Power-BI-2023)
