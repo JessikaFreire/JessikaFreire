@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Jessika, I'm 24 years old and I live in Brazil. 
-I currently work as a Software Tester, but I am studying to work in the Data area.
+I'm Jessika, I'm 25 years old and I live in Brazil. 
 I'm focusing my studies on:
 - Excel
 - Power BI
